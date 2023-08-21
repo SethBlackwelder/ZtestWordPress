@@ -3173,7 +3173,7 @@
 		background-image: url("../../images/banner1_darken.jpg"), url("../../images/banner1_darken.jpg");
 		background-position: center,						center center;
 		background-repeat: repeat,							no-repeat;
-		background-size: auto,							cover;
+		background-size: cover,							cover;
 		color: #fff;
 		padding: 12em 0 20em 0;
 		text-align: center;
