@@ -2125,7 +2125,7 @@
 
 		select option {
 			color: #777;
-			background-color: #f5f5f5;
+			background-color: #877f7d;
 		}
 
 		select:focus::-ms-value {
