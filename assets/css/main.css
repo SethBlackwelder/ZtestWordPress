@@ -3170,7 +3170,7 @@
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("../../images/banner1_resize.jpg"), url("../../images/banner1_resize.jpg");
+		background-image: url("../../images/banner1_darken.jpg"), url("../../images/banner1_darken.jpg");
 		background-position: center,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
