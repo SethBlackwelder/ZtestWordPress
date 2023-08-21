@@ -2018,7 +2018,7 @@
 	}
 
 	header p {
-		color: #999;
+		color: #173518;
 		position: relative;
 		margin: 0 0 1.5em 0;
 		font-style: italic;
@@ -2935,8 +2935,8 @@
 	}
 
 	#header {
-		background: #444;
-		color: #bbb;
+		background: #456789;
+		color: #99000;
 		cursor: default;
 		height: 3.25em;
 		left: 0;
