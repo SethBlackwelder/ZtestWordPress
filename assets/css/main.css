@@ -3311,7 +3311,7 @@
 
 	#cta {
 		background: #8A9A5B;
-		color: #f9e6df;
+		color: #000;
 		padding: 3.5em 0 4em 0;
 		text-align: center;
 	}
@@ -3332,7 +3332,7 @@
 		#cta .button {
 			box-shadow: none;
 			background: #fff;
-			color: #e89980;
+			color: #000;
 		}
 
 		#cta input[type="text"],
